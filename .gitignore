@@ -1,0 +1,23 @@
+# Audio files
+*.mp3
+*.wav
+*.flac
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.venv/
